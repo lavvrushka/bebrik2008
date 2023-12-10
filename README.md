@@ -15,7 +15,7 @@
 
 ---
 
-About Me :
+### About Me :
 I'm a beginner developer from Belarus!
 - :telescope: I'm creating my own pet projects, learning different programming languages ​​and want to get my first offer.
 
